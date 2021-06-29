@@ -78,8 +78,8 @@ export default {
   },
   data() {
     return {
-      hours: 0,
-      minutes: 0,
+      hours: '',
+      minutes: '',
       isAM: true,
     };
   },
